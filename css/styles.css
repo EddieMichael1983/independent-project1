@@ -1,0 +1,25 @@
+.red {
+  color: red;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  object-fit: scale-down;
+}
+
+.repos {
+  background-color: lightblue;
+}
+
+.repos ul a {
+  font-size: 13pt;
+}
+
+.career-goals {
+  background-color: lightsalmon;
+}
+
+.career-goals ol li {
+  font-size: 13pt;
+}
