@@ -5,20 +5,28 @@ body {
 h1 {
   font-family: 'Times New Roman', Times, serif;
 }
-.darkblue {
-  color: darkblue;
+.red {
+  color: red;
 }
 
-.darkblue h2 {
+.red h2 {
   font-family: Arial, Helvetica, sans-serif;
 }
-
-
 
 img {
   width: 300px;
   height: 300px;
   object-fit: scale-down;
+  margin: 5px;
+}
+
+.sidebar {
+  width: 40%;
+  float: right;
+}
+
+p a {
+  color: blueviolet;
 }
 
 .box {
