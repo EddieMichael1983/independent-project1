@@ -1,5 +1,16 @@
+body {
+  font-family: 'Courier New', Courier, monospace
+}
+
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+}
 .red {
   color: red;
+}
+
+.red h2 {
+  background-color: greenyellow;
 }
 
 img {
@@ -8,12 +19,24 @@ img {
   object-fit: scale-down;
 }
 
+.box {
+  width: 75%;
+  border: solid blue;
+  border-width: 1px;
+  background-color: yellow;
+  margin-bottom: 10px;
+}
+
 .repos {
   background-color: lightblue;
 }
 
-.repos ul a {
+.repos ul {
   font-size: 13pt;
+}
+
+.repos ul a {
+  color: blueviolet;
 }
 
 .career-goals {
