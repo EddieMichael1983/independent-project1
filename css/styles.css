@@ -52,6 +52,7 @@ p a {
 }
 
 .repos {
+  width: 52%;
   background-color: #00FFE0;
   border: solid #000FFF;
   border-width: 1px;
@@ -78,12 +79,6 @@ p a {
 .career-goals ol li {
   font-size: 13pt;
 }
-
-.poster {
-  height: 200%;
-  float: right;
-}
-
 
 .resources ul a {
   font-weight: bold;
