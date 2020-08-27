@@ -8,7 +8,7 @@ An independent project demonstrating a basic understanding of HTML tags, CSS sty
 
 ## Setup/Installation Requirements
 
-* Step 1: Open the link in a web browser 
+* Step 1: Open the link to [final draft](https://eddiemichael1983.github.io/indy-project/) Please note, this is the gh-pages preview of the final draft!  It is not a visual representation of this repo.
 * Step 2: View the page
 
 ## Known Bugs
