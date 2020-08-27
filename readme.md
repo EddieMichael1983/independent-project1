@@ -13,7 +13,7 @@ An independent project demonstrating a basic understanding of HTML tags, CSS sty
 
 ## Known Bugs
 
-Formatting issues, please see [final draft](https://github.com/EddieMichael1983/indy-project) for debugged version.  
+Formatting issues, please go to the [final draft repository](https://github.com/EddieMichael1983/indy-project) to see the debugged version.  
 
 ## Technologies Used
 
