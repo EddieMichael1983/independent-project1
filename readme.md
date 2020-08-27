@@ -8,12 +8,12 @@ An independent project demonstrating a basic understanding of HTML tags, CSS sty
 
 ## Setup/Installation Requirements
 
-* Step 1: Open this link in a web browser <!--- add GitHub pages link here-->
+* Step 1: Open the link in a web browser 
 * Step 2: View the page
 
 ## Known Bugs
 
-None
+Formatting issues, please see [final draft](https://github.com/EddieMichael1983/indy-project) for debugged version.  
 
 ## Technologies Used
 
